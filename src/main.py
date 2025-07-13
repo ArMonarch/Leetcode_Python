@@ -9,5 +9,7 @@
 
 # Leetcode Problem - 169. [Majority Element](https://leetcode.com/problems/majority-element)
 
+# Leetcode Problem - 121. [Best Time to Buy and Sell Stocks](leetcode.com/problems/best-time-to-buy-and-sell-stock)
+
 if __name__ == "__main__":
    print("Leetcode Problem Solution!")
