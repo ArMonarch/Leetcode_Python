@@ -1,23 +1,38 @@
-# NOTE: 
-# Array / String Problems
-
 # LeetCode Problem - 88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+import merge_sorted_array
+_ = merge_sorted_array
 
 # LeetCode Problem - 27. [Remove Element](https://leetcode.com/problems/remove-element)
+import remove_element
+_ = remove_element
 
 # Leetcode Problem - 26. [Remove Duplicate from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+import remove_duplicates
+_ = remove_duplicates
 
 # Leetcode Problem - 169. [Majority Element](https://leetcode.com/problems/majority-element)
+import majority_element
+_ = majority_element
 
 # Leetcode Problem - 121. [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+import best_time_to_buy_and_sell_stocks
+_ = best_time_to_buy_and_sell_stocks
 
 # Leetcode Problem - 13. [Roman to Number](https://leetcode.com/problems/roman-to-integer)
+import roman_to_integer
+_ = roman_to_integer
 
 # Leetcode Problems - 58 [Length of The Last Word](https://leetcode.com/problems/length-of-last-word)
+import length_of_last_word
+_ = length_of_last_word
 
 # Leetcode Problems - 14 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+import longest_common_prefix
+_  = longest_common_prefix
 
 # Leetcode Problems - 28. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
+import find_first_occurance
+_ = find_first_occurance
 
 if __name__ == "__main__":
    print("Leetcode Problem Solution!")
