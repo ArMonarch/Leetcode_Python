@@ -34,5 +34,9 @@ _  = longest_common_prefix
 import find_first_occurance
 _ = find_first_occurance
 
+# LeetCode Problem - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+import contains_duplicate
+_ = contains_duplicate
+
 if __name__ == "__main__":
    print("Leetcode Problem Solution!")
