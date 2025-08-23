@@ -18,7 +18,7 @@ Leetcode Problem Solutions Written in Python
 
 ## Arrays
 - [X] [Contains Duplicates](https://leetcode.com/problems/contains-duplicate)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number)
+- [X] [Missing Number](https://leetcode.com/problems/missing-number)
 - [ ] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum)
 - [ ] [Final Value After Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)

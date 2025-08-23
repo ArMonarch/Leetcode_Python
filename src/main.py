@@ -38,5 +38,9 @@ _ = find_first_occurance
 import contains_duplicate
 _ = contains_duplicate
 
+# LeetCode Problem - [Missing Numbers](https://leetcode.com/problems/missing-number)
+import missing_numbers
+_ = missing_numbers
+
 if __name__ == "__main__":
    print("Leetcode Problem Solution!")
