@@ -17,7 +17,7 @@ Leetcode Problem Solutions Written in Python
 # 70 LeetCode Problems [YouTube Video](https://www.youtube.com/watch?v=lvO88XxNAzs)
 
 ## Arrays
-- [ ] [Contains Duplicates](https://leetcode.com/problems/contains-duplicate)
+- [X] [Contains Duplicates](https://leetcode.com/problems/contains-duplicate)
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number)
 - [ ] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum)
