@@ -20,7 +20,7 @@ Leetcode Problem Solutions Written in Python
 - [X] [Contains Duplicates](https://leetcode.com/problems/contains-duplicate)
 - [X] [Missing Number](https://leetcode.com/problems/missing-number)
 - [X] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum)
 - [ ] [Final Value After Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
 - [ ] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
 - [ ] [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)

@@ -46,5 +46,9 @@ _ = missing_numbers
 import find_disappeared_numbers
 _ = find_disappeared_numbers
 
+# LeetCode Problem - [Two Sum](https://leetcode.com/problems/two-sum)
+import two_sum
+_ = two_sum
+
 if __name__ == "__main__":
    print("Leetcode Problem Solution!")
