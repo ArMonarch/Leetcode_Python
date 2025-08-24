@@ -42,5 +42,9 @@ _ = contains_duplicate
 import missing_numbers
 _ = missing_numbers
 
+# LeetCode Problem - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
+import find_disappeared_numbers
+_ = find_disappeared_numbers
+
 if __name__ == "__main__":
    print("Leetcode Problem Solution!")
