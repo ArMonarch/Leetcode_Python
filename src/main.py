@@ -50,5 +50,25 @@ _ = find_disappeared_numbers
 import two_sum
 _ = two_sum
 
+# LeetCode Problem - [Final Value After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
+import final_value_after_operation
+_ = final_value_after_operation
+
+# LeetCode Problem - [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
+import smaller_number_than_current
+_ = smaller_number_than_current
+
+# LeetCode Problem - [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)
+import minimum_time_visit_points
+_ = minimum_time_visit_points
+
+# LeetCode Problem - [Spiral Martix](https://leetcode.com/problems/spiral-matrix)
+import spiral_matrix
+_ = spiral_matrix
+
+# LeetCode Problem - [Number of Islands](https://leetcode.com/problems/number-of-islands)
+import number_of_islands
+_ = number_of_islands
+
 if __name__ == "__main__":
    print("Leetcode Problem Solution!")
