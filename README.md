@@ -22,7 +22,7 @@ Leetcode Problem Solutions Written in Python
 - [X] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
 - [X] [Two Sum](https://leetcode.com/problems/two-sum)
 - [X] [Final Value After Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
-- [ ] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
+- [X] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
 - [ ] [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands)
