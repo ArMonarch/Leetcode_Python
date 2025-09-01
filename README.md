@@ -25,7 +25,7 @@ Leetcode Problem Solutions Written in Python
 - [X] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
 - [X] [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)
 - [X] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands)
 
 ## Arrays Two Pointers
 - [ ] [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
